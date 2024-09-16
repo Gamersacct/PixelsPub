@@ -1,3 +1,4 @@
+![Uploading wall_1726345283327.jpg…]()
 # Pixels - Smart Resolution and DPI Changer
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
